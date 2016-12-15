@@ -1,0 +1,17 @@
+{
+  "name": "fs-angular-math",
+  "namespace": "math",
+  "port": "5037",
+  "moduleName": "app",
+  "version": "0.0.0",
+  "appPath": "app",
+  "dependencies": {
+    "angular": "1.6.0",
+    "angular-material": "1.1.1",
+    "angular-ui-router": "0.2.15",
+    "fs-boilerplate-styles": "latest"
+  },
+  "resolutions": {
+    "angular": "1.6.0"
+  }
+}

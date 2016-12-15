@@ -1,0 +1,16 @@
+{
+  "name": "fs-angular-math",
+  "description": "",
+  "main": [
+    "dist/math.js"
+  ],
+  "authors": [
+    "Firestitch Inc."
+  ],
+  "license": "MIT",
+  "ignore": [
+    "src",
+    ".gitignore"
+  ],
+  "private": false
+}
